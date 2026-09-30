@@ -1,0 +1,10 @@
+{
+  "description": "Discover and engage with a collection of posts featuring titles and authors, read full articles, and leave comments to share your thoughts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
